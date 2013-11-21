@@ -1,4 +1,7 @@
-express-socket.io-bootstrap-ready-to-use
+express + ejs + socket.io + bootstrap ready to use
 ========================================
 
-express v3.4.4 + socket.io v0.9.16 + bootstrap v3
+express 3.4.4
+ejs template
+socket.io
+bootstrap3
